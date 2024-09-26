@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for curso-devops-gitactions-dark-dew-2416 on 2024-09-26T18:00:29+02:00
+# fly.toml app configuration file generated for curso-devops-gitactions-empty-snow-8384 on 2024-09-26T20:12:05+02:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'curso-devops-gitactions-dark-dew-2416'
+app = 'curso-devops-gitactions-empty-snow-8384'
 primary_region = 'mad'
 
 [build]
