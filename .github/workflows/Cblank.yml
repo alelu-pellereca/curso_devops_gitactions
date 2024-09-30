@@ -28,7 +28,6 @@ jobs:
       # Cambiando el directorio
       - run: 
          cd mailService
-         pwd
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
@@ -50,7 +49,6 @@ jobs:
      # Cambiando el directorio
      - run: 
         cd userService
-        pwd
     # Runs a set of commands using the runners shell
      - run: |
          echo Add other actions to build,
