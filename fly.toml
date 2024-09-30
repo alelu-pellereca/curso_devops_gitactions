@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for curso-devops-gitactions on 2024-09-30T18:36:41+02:00
+# fly.toml app configuration file generated for mi-primer-cicd-completo-alejandralu on 2024-09-30T18:48:20+02:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'curso-devops-gitactions'
+app = 'mi-primer-cicd-completo-alejandralu'
 primary_region = 'mad'
 
 [build]
