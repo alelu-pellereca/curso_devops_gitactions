@@ -37,5 +37,7 @@ FROM base
 # Copy built application
 COPY --from=build /app /app
 
+EXPOSE 3000
+
 # Start the server by default, this can be overwritten at runtime
 CMD [ "npm", "run", "start" ]
